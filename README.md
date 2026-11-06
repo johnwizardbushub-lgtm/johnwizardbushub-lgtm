@@ -30,4 +30,4 @@ We start by discussing your goal and the work needed. From there, we can agree a
 
 [Message me on WhatsApp](https://wa.me/message/5NNKOHI7EUKYH1?src=qr)
 
-[Website preview](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/website/) currently requires authorised access. The public domain connection is being completed.
+[Visit Maxtech Hub](https://maxtechub.name.ng/) to explore the services, watch project walkthroughs and book a free consultation.
