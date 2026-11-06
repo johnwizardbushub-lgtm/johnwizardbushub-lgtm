@@ -2,33 +2,32 @@
 
 # Hi, I’m Babalola John
 
-**Websites · GoHighLevel CRM · Marketing automation**
+I build websites, organise GoHighLevel CRM systems and set up marketing automation through Maxtech Hub. I’m based in Ibadan, Nigeria, and work with clients remotely.
 
-I help businesses connect the journey from a website enquiry to an organised CRM record and useful follow-up. I work through **Maxtech Hub**, based in Ibadan, Nigeria, with clients remotely.
+My work focuses on the steps between an enquiry and a useful response. That can mean building the website, setting up a pipeline, connecting a booking page or arranging the follow up that comes next.
 
 ## Selected work
 
 | Project | My contribution |
 | --- | --- |
-| New Roots South Jersey | Website implementation for Jamie Hartman’s real estate business |
-| Potential State | Website implementation and work on the Wix-to-GoHighLevel migration |
-| CRM and appointment workflows | Pipeline organisation, lead routing and appointment follow-up samples |
-| Advertising reviews | Meta and Google Ads account analysis, lead reconciliation and tracking checks |
+| [New Roots South Jersey](https://github.com/johnwizardbushub-lgtm/maxtech-hub-portfolio/blob/main/case-studies/new-roots-south-jersey.md) | Website implementation for Jamie Hartman’s real estate business |
+| [Potential State](https://github.com/johnwizardbushub-lgtm/maxtech-hub-portfolio/blob/main/case-studies/potential-state.md) | Website implementation and work on the Wix to GoHighLevel migration |
+| [CRM and appointment workflows](https://github.com/johnwizardbushub-lgtm/maxtech-hub-portfolio/blob/main/case-studies/crm-and-automation.md) | Pipeline organisation, lead routing and appointment follow up samples |
+| [Advertising reviews](https://github.com/johnwizardbushub-lgtm/maxtech-hub-portfolio/blob/main/case-studies/meta-ads-review.md) | Account analysis, lead reconciliation and tracking checks |
+| [Project Brief Builder](https://github.com/johnwizardbushub-lgtm/project-brief-builder) | An original HTML, CSS and JavaScript example for collecting a project enquiry |
 
-This profile distinguishes client implementation work, visual work samples and original code examples. I do not publish private client CRM exports, credentials or lead records.
+[Browse the full project portfolio](https://github.com/johnwizardbushub-lgtm/maxtech-hub-portfolio)
 
-## How I can help
+## Working together
 
-- Business websites, landing pages and coaching funnels
-- GoHighLevel CRM, pipelines and follow-up workflows
-- Booking journeys, reputation workflows and dashboard branding
-- Advertising account reviews and lead tracking
-- AI video creative and captions
+I can help with business websites, landing pages, coaching funnels, GoHighLevel CRM, booking journeys and follow up workflows. I also review advertising accounts and work on video content and captions.
 
-## Let’s talk
+We start by discussing your goal and the work needed. From there, we can agree a practical scope, budget and first milestone.
 
-[Book a free 15-minute Google Meet consultation](https://calendar.app.google/csjf59513gg1Fxji8) · [LinkedIn](https://www.linkedin.com/in/john-babalola-412190379) · [WhatsApp](https://wa.me/message/5NNKOHI7EUKYH1?src=qr)
+[Book a free 15 minute Google Meet consultation](https://calendar.app.google/csjf59513gg1Fxji8)
 
-[Website and visual portfolio](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/website/) — currently an authorised preview; public domain connection is pending.
+[Connect on LinkedIn](https://www.linkedin.com/in/john-babalola-412190379)
 
-*Your success isn’t an accident — it’s a system.*
+[Message me on WhatsApp](https://wa.me/message/5NNKOHI7EUKYH1?src=qr)
+
+[Website preview](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/website/) currently requires authorised access. The public domain connection is being completed.
